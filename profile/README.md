@@ -15,8 +15,12 @@ Welcome to **Black-Axis**! We are dedicated to creating innovative, powerful, an
 1. **[sass-pire](https://github.com/Black-Axis/sass-pire)**
    - Description: Just live with your SCSS codes for more productive projects!
    - Technologies: SCSS Preprocessor, JavaScript, Unit Test.
+  
+2. **[reset-zone](https://github.com/Black-Axis/reset-zone)**
+   - Description: A modern CSS reset for modern web applications!
+   - Technologies: SCSS Preprocessor, JavaScript, PostCSS.
 
-2. **[pug-pire](https://github.com/Black-Axis/pug-pire)**
+3. **[pug-pire](https://github.com/Black-Axis/pug-pire)**
    - Description: This is just a library using Pug JS engine to generate awesome mixins and others.
    - Technologies: PugJS.
 
